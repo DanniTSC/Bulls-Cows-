@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode / JetBrains configs
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / debug
+*.log
+
+# Test runs
+*.out
+*.tmp
+
+# Virtual environments
+venv/
+.env/
+env/
